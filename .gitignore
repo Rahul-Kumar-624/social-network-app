@@ -1,0 +1,6 @@
+/uploads/profiles/*
+!/uploads/profiles/.gitkeep
+/uploads/statuses/*
+!/uploads/statuses/.gitkeep
+config/db.php
+.DS_Store
